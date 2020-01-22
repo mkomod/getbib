@@ -4,7 +4,7 @@ Gets bibtex entry from doi or pdf
 ## Installation
 
 ```
-$ https://github.com/mkomod/getbib.git
+$ git clone https://github.com/mkomod/getbib.git
 ```
 
 Copy or the `getbib` shell script to your local binaries
